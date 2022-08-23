@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class practice_01 {
 	public static void main(String [] args) {
 		Scanner scn = new Scanner(System.in);
-		
+		System.out.println("수정");
 		System.out.println("1. 원하는 단을 정수로 입력");
 		System.out.println("2. 구구단 전체 출력");
 		System.out.println("3. 나가기");
